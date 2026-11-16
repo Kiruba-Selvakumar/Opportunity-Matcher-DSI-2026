@@ -1,0 +1,131 @@
+[
+ {
+  "student_id": "S001",
+  "branch": "CSE",
+  "college_town": "Khammam",
+  "grad_year": 2026,
+  "cgpa": 7.5,
+  "backlogs": 0,
+  "skills_raw": [
+   "python",
+   "sql",
+   "git",
+   "excel"
+  ],
+  "projects": 0,
+  "english_level": "intermediate",
+  "languages": [
+   "Telugu",
+   "English"
+  ],
+  "can_relocate": false,
+  "budget": 3000,
+  "family_limits": [
+   "near_home_only"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "student_id": "S002",
+  "branch": "CSE (AI and ML)",
+  "college_town": "Guntur",
+  "grad_year": 2026,
+  "cgpa": 7.5,
+  "backlogs": 0,
+  "skills_raw": [
+   "py",
+   "ml",
+   "sql"
+  ],
+  "projects": 0,
+  "english_level": "intermediate",
+  "languages": [
+   "Telugu",
+   "English",
+   "Hindi"
+  ],
+  "can_relocate": true,
+  "budget": 15000,
+  "family_limits": [],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "student_id": "S003",
+  "branch": "ECE",
+  "college_town": "Warangal",
+  "grad_year": 2026,
+  "cgpa": 7.5,
+  "backlogs": 0,
+  "skills_raw": [
+   "embedded c",
+   "arduino",
+   "iot"
+  ],
+  "projects": 0,
+  "english_level": "intermediate",
+  "languages": [
+   "Telugu",
+   "English"
+  ],
+  "can_relocate": null,
+  "budget": 0,
+  "family_limits": [
+   "no_night_shift"
+  ],
+  "missing_fields": [
+   "can_relocate"
+  ],
+  "parse_method": "rule"
+ },
+ {
+  "student_id": "S004",
+  "branch": "IT",
+  "college_town": "Khammam",
+  "grad_year": 2026,
+  "cgpa": 7.5,
+  "backlogs": 0,
+  "skills_raw": [
+   "java",
+   "oops",
+   "dbms"
+  ],
+  "projects": 0,
+  "english_level": "intermediate",
+  "languages": [
+   "Telugu",
+   "English"
+  ],
+  "can_relocate": true,
+  "budget": 5000,
+  "family_limits": [],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "student_id": "S005",
+  "branch": "EEE",
+  "college_town": "Vijayawada",
+  "grad_year": 2026,
+  "cgpa": 7.5,
+  "backlogs": 0,
+  "skills_raw": [
+   "matlab",
+   "plc"
+  ],
+  "projects": 0,
+  "english_level": "intermediate",
+  "languages": [
+   "Telugu",
+   "English"
+  ],
+  "can_relocate": true,
+  "budget": null,
+  "family_limits": [],
+  "missing_fields": [
+   "budget"
+  ],
+  "parse_method": "rule"
+ }
+]

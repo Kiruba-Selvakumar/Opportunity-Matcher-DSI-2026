@@ -1,0 +1,198 @@
+[
+ {
+  "opp_id": "J001",
+  "type": "job",
+  "title": "Junior Python Developer",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "python",
+   "sql",
+   "git"
+  ],
+  "city": "Hyderabad",
+  "mode": "onsite",
+  "pay_min": 360000,
+  "pay_max": 360000,
+  "upfront_cost": 0,
+  "hours_per_week": 40,
+  "night_shift": false,
+  "safety_score": 4,
+  "languages_required": [
+   "English"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "opp_id": "J002",
+  "type": "job",
+  "title": "Junior Data Analyst",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "excel",
+   "sql",
+   "power bi"
+  ],
+  "city": "Remote",
+  "mode": "remote",
+  "pay_min": 360000,
+  "pay_max": 360000,
+  "upfront_cost": 0,
+  "hours_per_week": 40,
+  "night_shift": false,
+  "safety_score": 4,
+  "languages_required": [
+   "English"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "opp_id": "J003",
+  "type": "job",
+  "title": "QA Tester",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "manual testing",
+   "sql"
+  ],
+  "city": "Khammam",
+  "mode": "onsite",
+  "pay_min": 300000,
+  "pay_max": 300000,
+  "upfront_cost": 0,
+  "hours_per_week": 40,
+  "night_shift": false,
+  "safety_score": 4,
+  "languages_required": [
+   "English"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "opp_id": "J004",
+  "type": "job",
+  "title": "Technical Support Engineer",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "technical support",
+   "english communication"
+  ],
+  "city": "Warangal",
+  "mode": "onsite",
+  "pay_min": 360000,
+  "pay_max": 360000,
+  "upfront_cost": 0,
+  "hours_per_week": 40,
+  "night_shift": true,
+  "safety_score": 2,
+  "languages_required": [
+   "English",
+   "Telugu"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "opp_id": "J005",
+  "type": "job",
+  "title": "ML Intern",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "python",
+   "machine learning"
+  ],
+  "city": "Bengaluru",
+  "mode": "hybrid",
+  "pay_min": 360000,
+  "pay_max": 360000,
+  "upfront_cost": 0,
+  "hours_per_week": 50,
+  "night_shift": false,
+  "safety_score": 3,
+  "languages_required": [
+   "English"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "opp_id": "T001",
+  "type": "training",
+  "title": "Software Testing Course",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "manual testing",
+   "selenium"
+  ],
+  "city": "Hyderabad",
+  "mode": "onsite",
+  "pay_min": null,
+  "pay_max": null,
+  "upfront_cost": 12000,
+  "hours_per_week": 40,
+  "night_shift": false,
+  "safety_score": 4,
+  "languages_required": [
+   "English"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "opp_id": "T002",
+  "type": "training",
+  "title": "NPTEL Style Online Course",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "python",
+   "data structures"
+  ],
+  "city": "Remote",
+  "mode": "remote",
+  "pay_min": null,
+  "pay_max": null,
+  "upfront_cost": 0,
+  "hours_per_week": 40,
+  "night_shift": false,
+  "safety_score": 5,
+  "languages_required": [
+   "English"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ },
+ {
+  "opp_id": "M001",
+  "type": "mentor",
+  "title": "Alumni Mentor: Backend",
+  "org_name": "Test Org",
+  "job_family": "Test",
+  "required_skills_raw": [
+   "python",
+   "django",
+   "sql"
+  ],
+  "city": "Remote",
+  "mode": "remote",
+  "pay_min": null,
+  "pay_max": null,
+  "upfront_cost": 0,
+  "hours_per_week": 40,
+  "night_shift": false,
+  "safety_score": 5,
+  "languages_required": [
+   "English"
+  ],
+  "missing_fields": [],
+  "parse_method": "rule"
+ }
+]

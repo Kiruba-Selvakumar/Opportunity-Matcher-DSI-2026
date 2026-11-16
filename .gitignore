@@ -1,0 +1,17 @@
+data/raw/
+data/clean/
+data/private/
+data/derived/
+data/app.db
+data/app.db-wal
+data/app.db-shm
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+node_modules/
+web/dist/
+.DS_Store
+backups/
+poster/

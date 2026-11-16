@@ -1,0 +1,57 @@
+{
+ "students_labelled": 20,
+ "labels_human_reviewed": 0,
+ "labels_auto": 162,
+ "precision_at_5_human_reviewed": {
+  "ours": {
+   "strict": null,
+   "lenient": null,
+   "items": 0
+  },
+  "baseline": {
+   "strict": null,
+   "lenient": null,
+   "items": 0
+  }
+ },
+ "precision_at_5_all_labels_incl_auto": {
+  "ours": {
+   "strict": 0.493,
+   "lenient": 1.0,
+   "items": 67
+  },
+  "baseline": {
+   "strict": 0.17,
+   "lenient": 0.32,
+   "items": 100
+  }
+ },
+ "violation_rate": {
+  "ours": 0.0,
+  "baseline": 0.63
+ },
+ "avg_coverage_top5": {
+  "ours": 0.451,
+  "baseline": 0.59
+ },
+ "students_with_fewer_than_5_matches": 12,
+ "timing_mean_seconds": "not measured yet",
+ "matching_versions": {
+  "students": 100,
+  "same_first_choice": 0.78,
+  "mean_top5_overlap": 0.771,
+  "human_precision": {
+   "v1": {
+    "strict": null,
+    "lenient": null,
+    "items": 0
+   },
+   "v2": {
+    "strict": null,
+    "lenient": null,
+    "items": 0
+   }
+  },
+  "note": "No human-reviewed labels yet, so v2 cannot be judged as better or worse. Review eval/labels.csv."
+ }
+}

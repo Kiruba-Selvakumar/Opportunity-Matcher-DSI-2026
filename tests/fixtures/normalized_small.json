@@ -1,0 +1,116 @@
+{
+ "students": {
+  "S001": {
+   "skills": [
+    "Python",
+    "SQL",
+    "Git",
+    "Excel",
+    "Telugu Communication",
+    "English Communication"
+   ],
+   "unmatched": []
+  },
+  "S002": {
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Telugu Communication",
+    "Hindi Communication",
+    "English Communication"
+   ],
+   "unmatched": []
+  },
+  "S003": {
+   "skills": [
+    "Embedded C",
+    "Arduino",
+    "IoT",
+    "Telugu Communication",
+    "English Communication"
+   ],
+   "unmatched": []
+  },
+  "S004": {
+   "skills": [
+    "Java",
+    "OOP",
+    "DBMS",
+    "Telugu Communication",
+    "English Communication"
+   ],
+   "unmatched": []
+  },
+  "S005": {
+   "skills": [
+    "MATLAB",
+    "PLC",
+    "Telugu Communication",
+    "English Communication"
+   ],
+   "unmatched": []
+  }
+ },
+ "opportunities": {
+  "J001": {
+   "skills": [
+    "Python",
+    "SQL",
+    "Git"
+   ],
+   "unmatched": []
+  },
+  "J002": {
+   "skills": [
+    "Excel",
+    "SQL",
+    "Power BI"
+   ],
+   "unmatched": []
+  },
+  "J003": {
+   "skills": [
+    "Manual Testing",
+    "SQL"
+   ],
+   "unmatched": []
+  },
+  "J004": {
+   "skills": [
+    "Technical Support",
+    "English Communication"
+   ],
+   "unmatched": []
+  },
+  "J005": {
+   "skills": [
+    "Python",
+    "Machine Learning"
+   ],
+   "unmatched": []
+  },
+  "T001": {
+   "skills": [
+    "Manual Testing",
+    "Selenium"
+   ],
+   "unmatched": []
+  },
+  "T002": {
+   "skills": [
+    "Python",
+    "Data Structures"
+   ],
+   "unmatched": []
+  },
+  "M001": {
+   "skills": [
+    "Python",
+    "Django",
+    "SQL"
+   ],
+   "unmatched": []
+  }
+ }
+}

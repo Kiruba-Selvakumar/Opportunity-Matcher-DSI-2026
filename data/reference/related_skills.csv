@@ -1,0 +1,105 @@
+have,need,credit
+SQL,MySQL,0.8
+MySQL,SQL,0.8
+PostgreSQL,SQL,0.8
+SQLite,SQL,0.8
+MySQL,PostgreSQL,0.6
+PostgreSQL,MySQL,0.6
+DBMS,SQL,0.5
+SQL,DBMS,0.5
+JavaScript,TypeScript,0.8
+TypeScript,JavaScript,0.9
+React,JavaScript,0.7
+JavaScript,React,0.4
+Node.js,JavaScript,0.6
+Angular,React,0.5
+Vue.js,React,0.5
+React,Angular,0.5
+React,Vue.js,0.5
+HTML,CSS,0.4
+CSS,HTML,0.4
+Bootstrap,CSS,0.6
+Tailwind CSS,CSS,0.6
+Python,Django,0.4
+Django,Python,0.8
+Flask,Python,0.8
+Django,Flask,0.7
+Flask,Django,0.7
+Python,Flask,0.4
+Pandas,Python,0.6
+NumPy,Python,0.6
+Scikit-learn,Machine Learning,0.7
+Machine Learning,Scikit-learn,0.5
+Deep Learning,Machine Learning,0.8
+NLP,Machine Learning,0.6
+Computer Vision,Machine Learning,0.6
+Machine Learning,Deep Learning,0.4
+Java,Kotlin,0.5
+Kotlin,Java,0.5
+Kotlin,Android Development,0.5
+Java,Android Development,0.3
+Flutter,Android Development,0.6
+React Native,Android Development,0.5
+Spring Boot,Java,0.8
+Java,Spring Boot,0.5
+Spring,Java,0.8
+Java,Spring,0.5
+C++,C,0.8
+C,C++,0.6
+C#,Java,0.5
+Java,C#,0.5
+C,Embedded C,0.5
+Embedded C,C,0.9
+Arduino,Embedded C,0.5
+IoT,Arduino,0.4
+Arduino,IoT,0.5
+Power BI,Tableau,0.7
+Tableau,Power BI,0.7
+Excel,Google Sheets,0.8
+Google Sheets,Excel,0.8
+Excel,Power BI,0.3
+Data Visualization,Power BI,0.4
+Data Visualization,Tableau,0.4
+Selenium,Automation Testing,0.9
+Automation Testing,Selenium,0.6
+Manual Testing,Test Case Writing,0.6
+Test Case Writing,Manual Testing,0.6
+Bug Reporting,Manual Testing,0.5
+PyTest,Automation Testing,0.7
+JUnit,Automation Testing,0.7
+API Testing,Postman,0.6
+Postman,API Testing,0.7
+Linux,Linux Administration,0.7
+Linux Administration,Linux,0.9
+Technical Support,Troubleshooting,0.6
+Troubleshooting,Technical Support,0.5
+Networking Basics,Computer Networks,0.8
+Computer Networks,Networking Basics,0.8
+Windows Administration,Technical Support,0.4
+Hardware Basics,Technical Support,0.4
+AWS Basics,Azure Basics,0.6
+Azure Basics,AWS Basics,0.6
+Azure Basics,Google Cloud Basics,0.6
+AWS Basics,Google Cloud Basics,0.6
+Docker,Kubernetes Basics,0.4
+Git,GitHub,0.9
+GitHub,Git,0.9
+Data Structures,Algorithms,0.6
+Algorithms,Data Structures,0.6
+Competitive Programming,Algorithms,0.7
+Competitive Programming,Data Structures,0.6
+OOP,Java,0.3
+Java,OOP,0.5
+C++,OOP,0.5
+Cyber Security Basics,Ethical Hacking Basics,0.5
+Ethical Hacking Basics,Cyber Security Basics,0.8
+Network Security,Cyber Security Basics,0.7
+Wireshark,Network Security,0.5
+SOC Monitoring,Cyber Security Basics,0.6
+English Communication,Written Communication,0.5
+Written Communication,English Communication,0.5
+Verbal Ability,English Communication,0.6
+Customer Service,Customer Handling,0.8
+Customer Handling,Customer Service,0.8
+Email Writing,Written Communication,0.7
+Presentation,English Communication,0.4

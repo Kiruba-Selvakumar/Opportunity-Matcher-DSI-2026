@@ -1,0 +1,36 @@
+branch,job_family,bonus
+CSE,Software Trainee,0.05
+CSE,Python Developer,0.05
+CSE,Java Developer,0.05
+CSE,Frontend Developer,0.05
+CSE,Full Stack Developer,0.05
+CSE,QA / Manual Testing,0.03
+CSE,Automation Testing,0.04
+CSE,Android Developer,0.05
+CSE,Cloud Support,0.03
+CSE,Data Analyst,0.02
+CSE,ML / Data Science Intern,0.03
+CSE (AI and ML),ML / Data Science Intern,0.05
+CSE (AI and ML),Data Analyst,0.04
+CSE (AI and ML),Python Developer,0.04
+CSE (AI and ML),Software Trainee,0.03
+CSE (Data Science),Data Analyst,0.05
+CSE (Data Science),ML / Data Science Intern,0.05
+CSE (Data Science),Python Developer,0.03
+IT,Software Trainee,0.05
+IT,Technical Support,0.04
+IT,IT Helpdesk,0.04
+IT,Cloud Support,0.04
+IT,QA / Manual Testing,0.04
+IT,Full Stack Developer,0.04
+IT,Java Developer,0.04
+IT,Python Developer,0.04
+IT,SOC Analyst,0.03
+IT,Frontend Developer,0.04
+ECE,Embedded Systems,0.05
+ECE,IT Helpdesk,0.02
+ECE,Technical Support,0.02
+ECE,Cloud Support,0.02
+ECE,SOC Analyst,0.02
+EEE,Embedded Systems,0.05
+EEE,IT Helpdesk,0.02

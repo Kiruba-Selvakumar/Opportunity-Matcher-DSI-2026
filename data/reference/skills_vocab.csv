@@ -1,0 +1,152 @@
+skill_id,skill,category,source
+K001,Python,programming,onet_esco
+K002,Java,programming,onet_esco
+K003,C,programming,onet_esco
+K004,C++,programming,onet_esco
+K005,C#,programming,onet_esco
+K006,JavaScript,programming,onet_esco
+K007,TypeScript,programming,onet_esco
+K008,SQL,programming,onet_esco
+K009,HTML,programming,onet_esco
+K010,CSS,programming,onet_esco
+K011,Bash,programming,onet_esco
+K012,Kotlin,programming,onet_esco
+K013,Go,programming,onet_esco
+K014,R,programming,onet_esco
+K015,PHP,programming,onet_esco
+K016,React,web,onet_esco
+K017,Angular,web,onet_esco
+K018,Vue.js,web,onet_esco
+K019,Next.js,web,onet_esco
+K020,Node.js,web,onet_esco
+K021,Express.js,web,onet_esco
+K022,Django,web,onet_esco
+K023,Flask,web,onet_esco
+K024,Spring Boot,web,onet_esco
+K025,Spring,web,onet_esco
+K026,Hibernate,web,onet_esco
+K027,.NET,web,onet_esco
+K028,REST APIs,web,onet_esco
+K029,GraphQL,web,onet_esco
+K030,Bootstrap,web,onet_esco
+K031,Tailwind CSS,web,onet_esco
+K032,WordPress,web,onet_esco
+K033,Excel,data,onet_esco
+K034,Google Sheets,data,onet_esco
+K035,Pandas,data,onet_esco
+K036,NumPy,data,onet_esco
+K037,Power BI,data,onet_esco
+K038,Tableau,data,onet_esco
+K039,Statistics,data,onet_esco
+K040,Data Cleaning,data,onet_esco
+K041,Data Visualization,data,onet_esco
+K042,Data Entry,data,onet_esco
+K043,Big Data Basics,data,onet_esco
+K044,Machine Learning,ai_ml,onet_esco
+K045,Scikit-learn,ai_ml,onet_esco
+K046,Deep Learning,ai_ml,onet_esco
+K047,NLP,ai_ml,onet_esco
+K048,Computer Vision,ai_ml,onet_esco
+K049,Generative AI Basics,ai_ml,onet_esco
+K050,Prompt Engineering,ai_ml,onet_esco
+K051,MySQL,database,onet_esco
+K052,PostgreSQL,database,onet_esco
+K053,MongoDB,database,onet_esco
+K054,SQLite,database,onet_esco
+K055,Firebase,database,onet_esco
+K056,Redis,database,onet_esco
+K057,Data Structures,cs_fundamentals,onet_esco
+K058,Algorithms,cs_fundamentals,onet_esco
+K059,OOP,cs_fundamentals,onet_esco
+K060,Operating Systems,cs_fundamentals,onet_esco
+K061,Computer Networks,cs_fundamentals,onet_esco
+K062,DBMS,cs_fundamentals,onet_esco
+K063,System Design Basics,cs_fundamentals,onet_esco
+K064,Competitive Programming,cs_fundamentals,onet_esco
+K065,Git,tools_devops,onet_esco
+K066,GitHub,tools_devops,onet_esco
+K067,Linux,tools_devops,onet_esco
+K068,Docker,tools_devops,onet_esco
+K069,Kubernetes Basics,tools_devops,onet_esco
+K070,Jenkins,tools_devops,onet_esco
+K071,CI/CD,tools_devops,onet_esco
+K072,AWS Basics,tools_devops,onet_esco
+K073,Azure Basics,tools_devops,onet_esco
+K074,Google Cloud Basics,tools_devops,onet_esco
+K075,Jira,tools_devops,onet_esco
+K076,Postman,tools_devops,onet_esco
+K077,Agile,tools_devops,onet_esco
+K078,Scrum,tools_devops,onet_esco
+K079,Microservices Basics,tools_devops,onet_esco
+K080,Manual Testing,testing,onet_esco
+K081,Automation Testing,testing,onet_esco
+K082,Selenium,testing,onet_esco
+K083,Test Case Writing,testing,onet_esco
+K084,Bug Reporting,testing,onet_esco
+K085,API Testing,testing,onet_esco
+K086,JUnit,testing,onet_esco
+K087,PyTest,testing,onet_esco
+K088,Android Development,mobile,onet_esco
+K089,Flutter,mobile,onet_esco
+K090,React Native,mobile,onet_esco
+K091,iOS Basics,mobile,onet_esco
+K092,Technical Support,support_it,onet_esco
+K093,Troubleshooting,support_it,onet_esco
+K094,Networking Basics,support_it,onet_esco
+K095,Windows Administration,support_it,onet_esco
+K096,Linux Administration,support_it,onet_esco
+K097,Ticketing Systems,support_it,onet_esco
+K098,Customer Handling,support_it,onet_esco
+K099,Hardware Basics,support_it,onet_esco
+K100,MS Office,support_it,onet_esco
+K101,Embedded C,electronics,onet_esco
+K102,Arduino,electronics,onet_esco
+K103,IoT,electronics,onet_esco
+K104,PCB Design,electronics,onet_esco
+K105,MATLAB,electronics,onet_esco
+K106,VLSI Basics,electronics,onet_esco
+K107,PLC,electronics,onet_esco
+K108,AutoCAD Electrical,electronics,onet_esco
+K109,Cyber Security Basics,security,onet_esco
+K110,Ethical Hacking Basics,security,onet_esco
+K111,Network Security,security,onet_esco
+K112,SOC Monitoring,security,onet_esco
+K113,Wireshark,security,onet_esco
+K114,Figma,design,onet_esco
+K115,UI Design,design,onet_esco
+K116,UX Research Basics,design,onet_esco
+K117,Canva,design,onet_esco
+K118,English Communication,soft,onet_esco
+K119,Written Communication,soft,onet_esco
+K120,Email Writing,soft,onet_esco
+K121,Presentation,soft,onet_esco
+K122,Teamwork,soft,onet_esco
+K123,Problem Solving,soft,onet_esco
+K124,Time Management,soft,onet_esco
+K125,Leadership,soft,onet_esco
+K126,Adaptability,soft,onet_esco
+K127,Critical Thinking,soft,onet_esco
+K128,Attention to Detail,soft,onet_esco
+K129,Customer Service,soft,onet_esco
+K130,Documentation,soft,onet_esco
+K131,Interview Readiness,soft,onet_esco
+K132,Telugu Communication,local,local
+K133,Hindi Communication,local,local
+K134,NPTEL Programming in Java,local,local
+K135,NPTEL Python for Data Science,local,local
+K136,NPTEL Data Structures,local,local
+K137,AMCAT Certified,local,local
+K138,TCS NQT Qualified,local,local
+K139,Infosys Springboard Certificate,local,local
+K140,Coursera Certificate,local,local
+K141,HackerRank Certificate,local,local
+K142,CodeChef Rated,local,local
+K143,LeetCode Practice,local,local
+K144,Smart India Hackathon Participant,local,local
+K145,Internshala Internship,local,local
+K146,Mini Project,local,local
+K147,Major Project,local,local
+K148,Quantitative Aptitude,local,local
+K149,Logical Reasoning,local,local
+K150,Verbal Ability,local,local
+K151,GATE Qualified,local,local

@@ -1,0 +1,15 @@
+.git
+.venv
+node_modules
+web/node_modules
+web/dist
+data/raw
+data/clean
+data/private
+data/derived
+data/app.db
+.env
+__pycache__
+.pytest_cache
+tests
+eval

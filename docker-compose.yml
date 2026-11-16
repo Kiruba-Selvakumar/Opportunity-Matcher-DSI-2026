@@ -1,0 +1,26 @@
+services:
+  app:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      MATCHER_DATA_ROOT: /app/data
+      TRUST_PROXY: "1"            # the reverse proxy in front sets X-Forwarded-For
+      # The Docker image is intentionally demo-only.
+      APP_URL: "${APP_URL:-http://localhost:8010}"
+      API_URL: "${API_URL:-http://localhost:8010}"
+      GOOGLE_REDIRECT_URI: "${GOOGLE_REDIRECT_URI:-http://localhost:8010/api/integrations/google/callback}"
+      DEMO_LOGIN: "1"
+      COOKIE_SECURE: "0"
+      DEMO_PASSWORD: "${DEMO_PASSWORD:-secure-demo-2026}"
+      RUN_PIPELINE: "1"
+      SEED_DEMO: "1"
+      SEED_OUTCOMES: "1"
+    volumes:
+      - matcher-data:/app/data    # database, contacts and match files live here
+    ports:
+      - "8010:8000"                # demo app and OAuth callback are on localhost:8010
+    restart: unless-stopped
+volumes:
+  matcher-data:
